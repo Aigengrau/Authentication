@@ -31,6 +31,7 @@ input {
   box-sizing: border-box;
 }
 
+
 button {
   background: #4caf50;
   color: white;
@@ -46,3 +47,8 @@ button:hover {
   background: #45a049;
 }
 
+.error {
+  color: #f00;
+  margin: 16px;
+  translate: 20%;
+}
